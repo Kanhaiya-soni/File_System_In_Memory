@@ -1,3 +1,8 @@
+"""
+@author: Kanhaiya
+"""
+
+
 class Directory:
     def __init__(self, name, parent=None):
         # Initialize a directory with a name, parent directory (default is None), and empty children and files
